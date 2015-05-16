@@ -1,7 +1,7 @@
 Overview
 ========
 
-This image wraps the [Crark](http://www.crark.net/) binary in a Docker container.
+This image wraps the [Crark](http://www.crark.net/) RAR decryption tool in a Docker container.
 
 This is mostly a proof of concept.  I've put no effort into getting GPU support working properly.
 
